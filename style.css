@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  width: 100vw;
+}
+
+.imagenes{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img{
+  width: 300px;
+}
